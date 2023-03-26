@@ -1,4 +1,4 @@
-# specific-holdings
+# yield-shield
 
 Consider a certain financial commodity. The phrase “buy low sell high” is commonplace but ambiguous. How “low“ should trigger a buy? How much to buy? How “high” triggers a sell? How much of the commodity should be sold? These are questions that can be potentially addressed by examining parameters associated with each action. 
 
